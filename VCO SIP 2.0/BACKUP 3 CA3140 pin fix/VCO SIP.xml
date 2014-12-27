@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>E:/Documents/KiCad/Polysynth/VCO SIP/BACKUP 3 CA3140 pin fix/VCO SIP.sch</source>
+    <date>2014-10-03 10:44:12 AM</date>
+    <tool>Eeschema (2014-09-02 BZR 5112)-product</tool>
+  </design>
+  <components>
+    <comp ref="TP1">
+      <value>100K</value>
+      <fields>
+        <field name="Digikey">SM-42TA104CT-ND</field>
+      </fields>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113EB64</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <fields>
+        <field name="Digikey">478-1395-1-ND</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51141E68</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <fields>
+        <field name="Digikey">478-1395-1-ND</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51141E60</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>2.2n</value>
+      <fields>
+        <field name="Digikey">445-1332-1-ND</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51141C5F</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>1M</value>
+      <fields>
+        <field name="Digikey">P1.00MCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51141C42</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>100p</value>
+      <fields>
+        <field name="Digikey">399-1122-1-ND</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5114039E</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>33K</value>
+      <fields>
+        <field name="Digikey">P33.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51140397</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>56K</value>
+      <fields>
+        <field name="Digikey">P56.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5114035A</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>15K</value>
+      <fields>
+        <field name="Digikey">P15.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51140354</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>15K</value>
+      <fields>
+        <field name="Digikey">P15.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51140351</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>BAV70</value>
+      <fields>
+        <field name="Digikey">BAV70-V-GS08CT-ND</field>
+      </fields>
+      <libsource lib="MySynthParts" part="BAV70"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5114032F</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>56K</value>
+      <fields>
+        <field name="Digikey">P56.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>511401BE</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>56K</value>
+      <fields>
+        <field name="Digikey">P56.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51140175</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>39K</value>
+      <fields>
+        <field name="Digikey">P39.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>511400C2</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1M</value>
+      <fields>
+        <field name="Digikey">P1.00MCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>51140027</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>56K</value>
+      <fields>
+        <field name="Digikey">P56.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113FFCA</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <fields>
+        <field name="Digikey">P10.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113FEFB</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>56K</value>
+      <fields>
+        <field name="Digikey">P56.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113FD80</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10K</value>
+      <fields>
+        <field name="Digikey">P10.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113FD74</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1M</value>
+      <fields>
+        <field name="Digikey">P1.00MCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113FD6F</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100p</value>
+      <fields>
+        <field name="Digikey">399-1122-1-ND</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113F7BE</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>10K</value>
+      <fields>
+        <field name="Digikey">P10.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113F76D</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>20K</value>
+      <fields>
+        <field name="Digikey">P20.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113F767</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>3.3K</value>
+      <fields>
+        <field name="Digikey">P3.30KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113F730</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>15K</value>
+      <fields>
+        <field name="Digikey">P15.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113F5F6</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>18p</value>
+      <fields>
+        <field name="Digikey">399-1112-1-ND</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113F545</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>680</value>
+      <fields>
+        <field name="Digikey">P680CCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113F30F</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>2.2n 1%</value>
+      <fields>
+        <field name="Digikey">399-9198-1-ND</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113F26E</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100p</value>
+      <fields>
+        <field name="Digikey">399-1122-1-ND</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113EFA7</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>10K</value>
+      <fields>
+        <field name="Digikey">P10.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113EF8B</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>1.5M</value>
+      <fields>
+        <field name="Digikey">P1.50MCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113EEC1</tstamp>
+    </comp>
+    <comp ref="TC1">
+      <value>1K 3300ppm/K</value>
+      <fields>
+        <field name="Digikey">P1.0KCDCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113EC84</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>56K</value>
+      <fields>
+        <field name="Digikey">P56.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113EC77</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100p</value>
+      <fields>
+        <field name="Digikey">399-1122-1-ND</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113EC21</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>91K</value>
+      <fields>
+        <field name="Digikey">P91.0KCCT-ND</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113EBF1</tstamp>
+    </comp>
+    <comp ref="TP2">
+      <value>20K</value>
+      <fields>
+        <field name="Digikey">SM-42TA203CT-ND</field>
+      </fields>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113EBD7</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>BCM847</value>
+      <fields>
+        <field name="Digikey">568-6098-1-ND</field>
+      </fields>
+      <libsource lib="MySynthParts" part="BCM847"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113E67D</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>CA3140</value>
+      <fields>
+        <field name="Digikey">CA3140AMZ-ND</field>
+      </fields>
+      <libsource lib="linear" part="CA3140"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113E19B</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>MMBF4391LT1G</value>
+      <fields>
+        <field name="Digikey">MMBF4391LT1GOSCT-ND</field>
+      </fields>
+      <libsource lib="MySynthParts" part="MMBF4391LT1G"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113E160</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>LM311M</value>
+      <fields>
+        <field name="Digikey">296-1388-1-ND</field>
+      </fields>
+      <libsource lib="MySynthParts" part="LM311M"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5113E081</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>TL074-</value>
+      <libsource lib="MySynthParts" part="TL074-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>52E14220</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>TL072-</value>
+      <libsource lib="MySynthParts" part="TL072-"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53FFE3C7</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_12</value>
+      <libsource lib="VCO SIP-cache" part="CONN_12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54075097</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="device" part="C">
+      <description>Condensateur non polarise</description>
+      <footprints>
+        <fp>SM*</fp>
+        <fp>C?</fp>
+        <fp>C1-1</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="POT">
+      <description>Potentionmetre</description>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistance</description>
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R?-*</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="linear" part="CA3130">
+      <aliases>
+        <alias>LM101H</alias>
+        <alias>CA3140</alias>
+      </aliases>
+      <description>Ampli Op Mos</description>
+      <docs>AmpliOp.sch</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CA3130</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BAL/COMP" type="passive"/>
+        <pin num="2" name="INVERTING" type="input"/>
+        <pin num="3" name="NON" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="BALANCE" type="passive"/>
+        <pin num="6" name="OUTPUT" type="output"/>
+        <pin num="7" name="V+" type="power_in"/>
+        <pin num="8" name="COMP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="LM311M">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM311M</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="+" type="input"/>
+        <pin num="3" name="-" type="input"/>
+        <pin num="4" name="V-" type="input"/>
+        <pin num="5" name="BAL" type="passive"/>
+        <pin num="6" name="B/S" type="passive"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="V+" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="MMBF4391LT1G">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MMBF4391LT1G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="G" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="BAV70">
+      <footprints>
+        <fp>D?</fp>
+        <fp>S*</fp>
+        <fp>LED*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAV70</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="BCM847">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BCM847</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E1" type="input"/>
+        <pin num="2" name="B1" type="input"/>
+        <pin num="3" name="C2" type="input"/>
+        <pin num="4" name="E2" type="input"/>
+        <pin num="5" name="B2" type="input"/>
+        <pin num="6" name="C1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCO SIP-cache" part="CONN_12">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_12</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="TL072-">
+      <description>Dual Op amp (low power)</description>
+      <docs>ns/lm158.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL072-</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MySynthParts" part="TL074-">
+      <description>Quad Op amp.</description>
+      <docs>op_amps/lm324.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL074-</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="~" type="output"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\kicad-winbuilder-3.4\kicad\share\library\device.lib</uri>
+    </library>
+    <library logical="linear">
+      <uri>C:\kicad-winbuilder-3.4\kicad\share\library\linear.lib</uri>
+    </library>
+    <library logical="MySynthParts">
+      <uri>E:\Documents\KiCad\MyLibs\MySynthParts.lib</uri>
+    </library>
+    <library logical="VCO SIP-cache">
+      <uri>E:\Documents\KiCad\Polysynth\VCO SIP\BACKUP 3 CA3140 pin fix\VCO SIP-cache.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(U3-Pad5)">
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="2" name="Net-(U3-Pad8)">
+      <node ref="U3" pin="8"/>
+    </net>
+    <net code="3" name="Net-(U3-Pad1)">
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="4" name="Net-(U4-Pad6)">
+      <node ref="U4" pin="6"/>
+    </net>
+    <net code="5" name="Net-(U4-Pad5)">
+      <node ref="U4" pin="5"/>
+    </net>
+    <net code="6" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1"/>
+      <node ref="U3" pin="2"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="7" name="Net-(R12-Pad1)">
+      <node ref="R9" pin="2"/>
+      <node ref="U1" pin="6"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="8" name="PULSE">
+      <node ref="U1" pin="8"/>
+      <node ref="P1" pin="9"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="9" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1"/>
+      <node ref="U2" pin="6"/>
+      <node ref="R13" pin="1"/>
+      <node ref="Q1" pin="6"/>
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="10" name="Net-(C6-Pad2)">
+      <node ref="U4" pin="3"/>
+      <node ref="R15" pin="1"/>
+      <node ref="R16" pin="2"/>
+      <node ref="C6" pin="2"/>
+    </net>
+    <net code="11" name="Net-(R4-Pad1)">
+      <node ref="TP2" pin="1"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="12" name="SAW">
+      <node ref="R12" pin="2"/>
+      <node ref="D1" pin="1"/>
+      <node ref="P1" pin="8"/>
+      <node ref="U1" pin="7"/>
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="13" name="Net-(C3-Pad1)">
+      <node ref="R4" pin="2"/>
+      <node ref="R10" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="14" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="TC1" pin="2"/>
+    </net>
+    <net code="16" name="Net-(Q1-Pad1)">
+      <node ref="R14" pin="2"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="Q1" pin="4"/>
+    </net>
+    <net code="17" name="0V">
+      <node ref="R7" pin="2"/>
+      <node ref="P1" pin="5"/>
+      <node ref="P1" pin="12"/>
+      <node ref="U3" pin="3"/>
+      <node ref="TP1" pin="3"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U1" pin="5"/>
+      <node ref="Q1" pin="5"/>
+      <node ref="U1" pin="12"/>
+      <node ref="U2" pin="3"/>
+      <node ref="R16" pin="1"/>
+      <node ref="U2" pin="5"/>
+      <node ref="P1" pin="1"/>
+      <node ref="R23" pin="1"/>
+      <node ref="TC1" pin="1"/>
+    </net>
+    <net code="18" name="RAMP">
+      <node ref="U3" pin="6"/>
+      <node ref="R20" pin="2"/>
+      <node ref="R21" pin="2"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="19" name="SYNC">
+      <node ref="C6" pin="1"/>
+      <node ref="P1" pin="11"/>
+    </net>
+    <net code="20" name="PITCH_CV">
+      <node ref="P1" pin="4"/>
+      <node ref="U2" pin="2"/>
+      <node ref="TP2" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="TP2" pin="3"/>
+    </net>
+    <net code="21" name="Net-(R2-Pad2)">
+      <node ref="U1" pin="10"/>
+      <node ref="R2" pin="2"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="22" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2"/>
+      <node ref="R23" pin="2"/>
+      <node ref="U4" pin="7"/>
+      <node ref="Q2" pin="3"/>
+    </net>
+    <net code="23" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2"/>
+      <node ref="R20" pin="1"/>
+      <node ref="Q2" pin="1"/>
+    </net>
+    <net code="24" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2"/>
+      <node ref="U2" pin="7"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="25" name="TRI">
+      <node ref="U1" pin="14"/>
+      <node ref="P1" pin="7"/>
+      <node ref="R22" pin="2"/>
+      <node ref="C9" pin="2"/>
+    </net>
+    <net code="26" name="Net-(C4-Pad1)">
+      <node ref="R11" pin="1"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="27" name="Net-(C8-Pad1)">
+      <node ref="R21" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="28" name="PWM_CV">
+      <node ref="R6" pin="2"/>
+      <node ref="P1" pin="10"/>
+    </net>
+    <net code="29" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R8" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="30" name="Net-(D1-Pad3)">
+      <node ref="R17" pin="2"/>
+      <node ref="D1" pin="3"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="31" name="/TRI_SHAPE">
+      <node ref="TP1" pin="2"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="32" name="LINEAR_FM">
+      <node ref="C4" pin="2"/>
+      <node ref="P1" pin="6"/>
+    </net>
+    <net code="33" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1"/>
+      <node ref="R22" pin="1"/>
+      <node ref="R19" pin="2"/>
+      <node ref="R18" pin="2"/>
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="34" name="Net-(D1-Pad2)">
+      <node ref="U1" pin="1"/>
+      <node ref="R8" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="35" name="-VCC">
+      <node ref="U4" pin="4"/>
+      <node ref="U4" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U3" pin="4"/>
+      <node ref="U1" pin="11"/>
+      <node ref="R5" pin="1"/>
+      <node ref="U2" pin="4"/>
+      <node ref="R19" pin="1"/>
+      <node ref="R17" pin="1"/>
+      <node ref="P1" pin="3"/>
+    </net>
+    <net code="36" name="+VCC">
+      <node ref="C1" pin="1"/>
+      <node ref="R13" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="U3" pin="7"/>
+      <node ref="U4" pin="8"/>
+      <node ref="R15" pin="2"/>
+      <node ref="TP1" pin="1"/>
+      <node ref="P1" pin="2"/>
+      <node ref="U2" pin="8"/>
+      <node ref="U1" pin="4"/>
+    </net>
+  </nets>
+</export>
