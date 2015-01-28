@@ -36,4 +36,4 @@ This is a 4 pole LM13700 OTA-based Voltage Controlled Filter (VCF) in a 40 mm x 
 
 EG ADSR SIP
 ===========
-This is a voltage controlled Envelope Generator (EG) with Attack, Decay, Sustain and Release stages in a 30 mm x 18 mm 12 pin SIP package. It is derived from simimilar designs by Massimo Ischia and Scott Rider (OldCrow) with modifications to respond to 0-10V control voltages and to produce a 0-10V output.
+This is a voltage controlled Envelope Generator (EG) with Attack, Decay, Sustain and Release stages in a 30 mm x 18 mm 10 pin SIP package. It is derived from similar designs by Massimo Ischia and Scott Rider (OldCrow) with modifications to respond to 0-10V control voltages and to produce a 0-10V output.
